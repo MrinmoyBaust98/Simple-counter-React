@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.counter-design{
+  background-color: rgb(181, 225, 211);
+  border: 2px solid peru;
+  border-radius: 5px;
+  width: 60%;
+  padding: 20px;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
